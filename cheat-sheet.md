@@ -11,6 +11,7 @@ Open Claude → **Code** → choose this folder. Put your clips in `footage/`. F
 | 1 · Talking head | One short clip of you talking to the camera | 1 clean reel |
 | 2 · Long recording | A workshop, podcast, live or long talk | 10+ reels |
 | 3 · B-roll montage | Many short clips, nobody talking, plus a song | 1 reel cut to music |
+| 4 · Singing over a song | A clip of you singing (no music) plus a song | 1 reel with your voice on the song |
 
 ## Type 1 · Talking head (1 clip → 1 clean reel)
 1. "Cut the long pauses and the 'um's, clean up my voice, and add simple captions."
@@ -31,6 +32,13 @@ Open Claude → **Code** → choose this folder. Put your clips in `footage/`. F
 5. "Keep 04. Move 05 after 02. Replace 06 with 21 from the sheet."
 6. "Show me 3 colour looks on one frame."
 7. "Add a title at the top, remove the numbers, export."
+
+## Type 4 · Singing over a song (your voice + a track → 1 reel)
+Film yourself singing, humming or harmonizing with no music playing (headphones are fine). Put the clip and the song in `footage/`.
+1. "Here is my singing clip and the song. Find where my voice fits the song best. Tell me both keys and how well it fits. Don't edit yet."
+2. "The music is [indie pop / sound healing / …]. Suggest 4 titles like 'Opera singer meets ___'."
+3. "Use title 2. Keep it one take, start just before my first note, end after my last one. Export with the music, and also a version with only my voice."
+4. Polish: "Add micro-zooms in my breaths between phrases, gentle: 1.0 to about 1.15x, centred on my face, never under the title."
 
 ## Polish (any type, one at a time, after the basic edit)
 Each one makes a new version. You can always say "go back to the last version".
