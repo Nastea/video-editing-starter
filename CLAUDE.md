@@ -13,7 +13,7 @@ Go through these one at a time. Tell me what each one is for before you install 
    Then open the `.env` file in this folder for me and tell me to paste the key there myself.
    Never ask me to paste the key into the chat.
 5. Test: ask me for a short clip, put it in /footage, transcribe it, and show me the text.
-6. Tell me I'm ready, and show me the two prompts to start with (talking head, B-roll montage).
+6. Tell me I'm ready. Explain the 3 video types (talking head, long recording, B-roll montage) and show me the first prompt for each from `cheat-sheet.md`.
 
 ## Talking head
 1. Transcribe with AssemblyAI using `scripts/transcribe.py` (word level, keep "um" and "uh" so we can cut them).
@@ -36,6 +36,12 @@ Go through these one at a time. Tell me what each one is for before you install 
 4. I will say things like "keep 4, move 5 after 2, replace 6 with 21". Re-render after each round.
 5. When I'm happy: show me 3 colour looks on one frame, add my text, remove the numbers, export.
 6. Export without the music unless I ask for it. I add the song inside Instagram or TikTok.
+
+## Polish (only when I ask, one at a time)
+- Every change makes a new version (-v2, -v3…). Keep the old ones so I can say "go back".
+- Micro-zooms: switch between normal framing and about 1.25x closer only at cuts, every 3 to 5 seconds, centred on my face. Never zoom mid-sentence.
+- Words behind me and background blur need my outline: on a Mac use Apple Vision person segmentation. If it fails twice, tell me and suggest a simpler option.
+- Music under my voice: lower it while I talk, fade out at the end. Keep the music separate so I can swap the song without redoing the edit.
 
 ## Checking (do this before you tell me it's done)
 - Make one image with 12 frames from the video. Is the text readable everywhere? Is anything cut off?

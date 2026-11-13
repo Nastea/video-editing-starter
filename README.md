@@ -2,12 +2,14 @@
 
 A starter folder for editing short vertical videos with Claude.
 
-## How to use it
-1. Download this folder: green **Code** button → **Download ZIP**. Unzip it.
-2. Open the Claude app, go to the **Code** tab, and choose this folder.
-3. Type **set me up**. Claude installs what's needed and explains each step.
+## Setup (about 30 minutes, once)
+1. **Get Claude for desktop:** download it from [claude.ai/download](https://claude.ai/download), install it and sign in. The **Code** tab needs a paid plan (Pro).
+2. **Download this folder:** green **Code** button → **Download ZIP**. In Downloads, unzip it (Mac: double-click; Windows: right-click → Extract All). Move the folder to **Documents**.
+3. **Open it in Claude:** click **Code** at the top → the folder button under the message box → Documents → this folder → **Open**. If asked, click **Trust**.
+4. **Type:** "Set me up: check what this folder needs and install it, one step at a time. Explain each step in simple words and ask me before you install anything." Click **Allow** when Claude asks. Paste your AssemblyAI key into `.env` yourself, never into the chat.
+5. **Test:** put a 30-second clip of yourself in `footage/` and type "Edit the clip in footage: cut the long pauses and the 'um's, clean up my voice, and add simple captions." The video appears in `out/`.
 
-Then put your clips in `footage/` and ask for a reel. All the prompts are in `cheat-sheet.md`.
+All the prompts (3 video types + polish: micro-zooms, text, music…) are in `cheat-sheet.md`.
 
 ## What's inside
 - `CLAUDE.md`: your rulebook. Claude reads it before every edit. Fill in "My style".
