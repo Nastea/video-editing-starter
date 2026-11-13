@@ -38,7 +38,8 @@ Film yourself singing, humming or harmonizing with no music playing (headphones 
 1. "Here is my singing clip and the song. Find where my voice fits the song best. Tell me both keys and how well it fits. Don't edit yet."
 2. "The music is [indie pop / sound healing / …]. Suggest 4 titles like 'Opera singer meets ___'."
 3. "Use title 2. Keep it one take, start just before my first note, end after my last one. Export with the music, and also a version with only my voice."
-4. Polish: "Add micro-zooms in my breaths between phrases, gentle: 1.0 to about 1.15x, centred on my face, never under the title."
+4. Movement: "Add one slow, smooth push-in over the whole video." Or, for upbeat songs: "Add micro-zooms in my breaths between phrases, 1.0 to about 1.15x, never under the title."
+5. Sound: "Keep the sound steady: even out my phrases, keep the song at one level."
 
 ## Polish (any type, one at a time, after the basic edit)
 Each one makes a new version. You can always say "go back to the last version".

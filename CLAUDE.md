@@ -55,7 +55,8 @@ never cut my breaths or held notes, no captions, no transcript (except to check 
    render it with `npx hyperframes render --format webm -o title.webm`.
 7. Render with `scripts/singing_reel.py` (see the top of the file). It makes `<name>-final.mp4` (song + voice + title),
    `<name>-voice-only.mp4` (if I want to add the song in Instagram) and `<name>-voice.wav`.
-   My voice sits slightly above the song. Micro-zooms go only in my breaths (`--zooms` with the zoom points).
+   Use `--steady` so the level stays even (my voice may still move a little over and under the song: keep that).
+   Movement: for calm songs a slow push-in (`--push 1.12`), for upbeat ones micro-zooms only in my breaths (`--zooms`).
 8. Music from Pixabay or similar free libraries can stay in the file. Songs from Spotify or YouTube: export voice-only.
 
 ## Polish (only when I ask, one at a time)
